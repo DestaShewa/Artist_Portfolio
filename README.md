@@ -1,4 +1,6 @@
 🎨 React Artist Portfolio (Work in Progress)
+
+
 A modern, responsive portfolio website for a visual artist, built with React, Vite, and Tailwind CSS. This project serves as a strong foundation for a dynamic, content-managed artist showcase.
 
 
